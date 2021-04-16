@@ -1,6 +1,7 @@
 # improveDetroit
 Exploratory Data Analysis of the Improve_Detroit_Issues dataset, with some initial modeling:
 Code is found in the notebooks of the repository. Summary if the insights are below. 
+![image](https://user-images.githubusercontent.com/26015263/115037781-d2950380-9e9c-11eb-93e4-b6956a57e6b2.png)
 
 [Visualizations](#visualizations)
 
